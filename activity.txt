@@ -1,0 +1,5 @@
+In pairs, complete the comparison table below in your notebook or a shared doc, then discuss as a class: 
+• Which extension changed your day-to-day typing/editing experience the most? 
+• Which extension is about the code itself (correctness/formatting) vs. about collaboration/history? 
+• Which extension would you keep enabled for every project, and which only for specific languages? 
+• How did Live Share change the feeling of pair programming compared to screen sharing? 
